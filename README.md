@@ -1,6 +1,6 @@
 ![Header](https://github.com/PThree13/PThree13/blob/main/assets/Logo.jpg)
 
-About me
+## I'm a beginner Software Engeneer
 
 My CV
 

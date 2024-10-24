@@ -2,7 +2,8 @@
 
 ## I'm a beginner Software Engeneer
 
-My CV
+## My CV
+[Link to my CV](https://drive.google.com/file/d/1Z-jOYYUOrU14EEj5_ublnxIYKyGXOQPs/view)
 
 ### Web
 <div>

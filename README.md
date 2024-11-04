@@ -24,9 +24,13 @@
 </div>
 
 ### Test documentation
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>
-</div>
+[Bug reports (ENG)](https://docs.google.com/spreadsheets/d/1ga7YHZabHW4wwfEIEeOY_8ET9-STKDwyG0Txlx9qF2k/edit?gid=1083918478#gid=1083918478)
+[Checklist (ENG)](https://docs.google.com/spreadsheets/d/1ga7YHZabHW4wwfEIEeOY_8ET9-STKDwyG0Txlx9qF2k/edit?gid=1533342146#gid=1533342146)
+[Test cases (ENG)](https://docs.google.com/spreadsheets/d/1ga7YHZabHW4wwfEIEeOY_8ET9-STKDwyG0Txlx9qF2k/edit?gid=2026604563#gid=2026604563)
+
+[Bug reports (RUS)](https://docs.google.com/spreadsheets/d/1ga7YHZabHW4wwfEIEeOY_8ET9-STKDwyG0Txlx9qF2k/edit?gid=0#gid=0)
+[Checklist (RUS)](https://docs.google.com/spreadsheets/d/1ga7YHZabHW4wwfEIEeOY_8ET9-STKDwyG0Txlx9qF2k/edit?gid=1640250831#gid=1640250831)
+[Test cases (RUS)](https://docs.google.com/spreadsheets/d/1ga7YHZabHW4wwfEIEeOY_8ET9-STKDwyG0Txlx9qF2k/edit?gid=651604711#gid=651604711)
 
 ### Working with data
 <div> 
